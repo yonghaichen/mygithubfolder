@@ -1,0 +1,1 @@
+As soon as you have done any of these, you should be out of visual mode. To exit visual mode, you can hit the magic key, **Esc**.

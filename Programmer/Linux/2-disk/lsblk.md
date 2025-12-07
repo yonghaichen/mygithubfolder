@@ -1,0 +1,9 @@
+
+
+
+
+`lsblk` 
+
+
+list block devices
+
